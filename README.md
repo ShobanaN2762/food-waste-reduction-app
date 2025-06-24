@@ -72,3 +72,9 @@ npm run dev
 │   ├── styles/            # Global styles
 │   └── main.jsx           # App entry point
 ```
+
+## 🌐 Live Demo
+
+[🔗 View Deployed App](https://food-waste-reduction-app.vercel.app)
+
+
